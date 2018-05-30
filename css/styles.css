@@ -1,0 +1,43 @@
+/* .clearfix {
+  clear: both;
+}
+
+body {
+  background-color: #fff;
+}
+
+header {
+  background-color: green;
+  padding: 40px 0;
+}
+
+nav {
+  background-color: pink;
+  padding: 40px 0;
+}
+
+.left-item {
+  background-color: yellow;
+  padding: 40px 0;
+  width: 75%;
+  float: left;
+}
+
+.right-item {
+  background-color: cyan;
+  padding: 40px 0;
+  width: 25%;
+  float: left;
+}
+
+footer {
+  background-color: pink;
+  padding: 40px 0;
+}
+
+@media only screen and (max-width: 1000px) and (min-width:700px ) {
+  header {
+    background-color: orange;
+    padding: 10px 0;
+  }
+} */
